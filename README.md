@@ -41,7 +41,7 @@ Fun Fact: I love analyzing data patterns 📊
 
 ### ⚡ Frameworks & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,redis,firebase,docker"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,discord,mongodb,redis,firebase,docker"/>
 </p>
 
 ### ☁️ Cloud & Deployment
