@@ -17,61 +17,31 @@
 
 ---
 
-## 🚀 About Me
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=170&section=header&text=Developer%20Terminal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Booting+Developer+Profile...;Loading+Systems...;Initializing+Chandan.exe;Full+Stack+Developer+Ready"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
-</p>
-
-<img align="right" height="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-```bash
 ╔══════════════════════════════════════════════╗
-║        SYSTEM TERMINAL : CHANDAN.EXE         ║
+║             DEVELOPER PROFILE                ║
 ╚══════════════════════════════════════════════╝
 
-$ whoami
-> Chandan
+👤 Name       :: Chandan
+💻 Role       :: Full Stack Developer
+⚡ Focus      :: Scalable Systems & Automation
 
-$ role
-> Full Stack Developer
+📚 Learning
+ ├─ Advanced Java Spring Boot
+ └─ Machine Learning with Python
 
-$ focus
-> Scalable Systems & Automation
+🚀 Active Projects
+ ├─ Discord Game Helper Bots
+ └─ Data Analysis Platforms
 
-$ learning --current
-> Advanced Java Spring Boot
-> Machine Learning with Python
+🧠 Interests
+ ├─ System Architecture
+ ├─ Automation Engineering
+ └─ Data Pattern Analysis
 
-$ projects --active
-> Discord Game Helper Bots
-> Data Analysis Platforms
+🎯 Fun Fact
+ > I love turning complex data into powerful insights 📊
 
-$ interests
-> System Architecture
-> Automation Engineering
-> Data Pattern Analysis
-
-$ fun_fact
-> "Turning complex data into powerful insights 📊"
-
-$ status
-> SYSTEM READY 🚀
-```
-
-<p align="center">
-
-⚡ **Build Systems** • 🤖 **Automate Everything** • 📊 **Analyze Data**
-
-</p>
+[STATUS] Ready to build & innovate 🚀
 
 
 ## 🛠 Tech Stack
