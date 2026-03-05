@@ -107,46 +107,165 @@ specialties:
 
 <div align="center">
 
+### 🎮 **PROJECT SHOWCASE**
+
+</div>
+
+---
+
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🤖 Discord Game Helper Bot
-**Advanced automation system for Discord gaming communities**
+<div align="center">
 
-**Key Features:**
-- 25+ automated notification systems
-- Real-time analytics dashboard
-- Smart wishlist management
-- Enterprise-grade error handling
-- High-performance database integration
+## 🤖 **Discord Game Helper Bot**
 
-**Tech Stack:** Node.js, Discord.js, MongoDB, Redis, Express
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-[View Repository →](https://github.com/minecraftchandan/rushia-bugs)
+</div>
 
-</td>
-<td width="50%">
+**🎯 Advanced automation system for Discord gaming communities**
 
-### ☕ Spring Boot Microservices API
-**Enterprise-grade REST API with microservices architecture**
+```yaml
+Project Overview:
+  Type: Discord Bot Application
+  Scale: 25+ Automated Systems
+  Users: Gaming Communities
+  Status: Production Ready
 
-**Key Features:**
-- JWT authentication & authorization
-- Clean architecture implementation
-- Docker containerization
-- Analytics endpoints
-- Comprehensive API documentation
+Core Features:
+  ✅ Real-time Game Notifications
+  ✅ Smart Wishlist Management
+  ✅ Analytics Dashboard
+  ✅ Role-based Permissions
+  ✅ Multi-server Support
 
-**Tech Stack:** Java, Spring Boot, MongoDB, Redis, Docker
+Technical Highlights:
+  🔧 Modular Architecture
+  ⚡ High-performance MongoDB
+  🛡️ Enterprise Error Handling
+  📊 Real-time Data Processing
+  🚀 Railway Cloud Deployment
+```
 
-[View Repository →](https://github.com/minecraftchandan/spring-boot-api)
+<div align="center">
+
+**[📂 View Repository](https://github.com/minecraftchandan/rushia-bugs)** • **[🌐 Live Demo](#)** • **[📖 Documentation](#)**
+
+</div>
 
 </td>
 </tr>
 </table>
 
+---
+
+<table>
+<tr>
+<td width="100%">
+
+<div align="center">
+
+## ☕ **Spring Boot Microservices API**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
 </div>
+
+**🏗️ Enterprise-grade REST API with microservices architecture**
+
+```yaml
+Project Overview:
+  Type: Backend API Service
+  Architecture: Microservices
+  Security: JWT Authentication
+  Status: Development
+
+Core Features:
+  ✅ RESTful API Design
+  ✅ JWT Authentication
+  ✅ Role-based Authorization
+  ✅ Data Analytics Endpoints
+  ✅ Comprehensive Documentation
+
+Technical Highlights:
+  🏛️ Clean Architecture Pattern
+  🐳 Docker Containerization
+  📊 Analytics Integration
+  🔒 Security Best Practices
+  ☁️ Cloud-ready Deployment
+```
+
+<div align="center">
+
+**[📂 View Repository](https://github.com/minecraftchandan/spring-boot-api)** • **[📋 API Docs](#)** • **[🐳 Docker Hub](#)**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+<div align="center">
+
+## 📊 **Data Analysis Dashboard**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+
+**📈 Interactive data visualization and analytics platform**
+
+```yaml
+Project Overview:
+  Type: Web Application
+  Focus: Data Visualization
+  Target: Business Analytics
+  Status: Concept Phase
+
+Core Features:
+  ✅ Interactive Charts
+  ✅ Real-time Data Processing
+  ✅ Advanced Filtering
+  ✅ Export Capabilities
+  ✅ Responsive Design
+
+Technical Highlights:
+  📊 Dynamic Visualizations
+  🔥 Firebase Integration
+  📱 Mobile-first Design
+  ⚡ Real-time Updates
+  🎨 Modern UI/UX
+```
+
+<div align="center">
+
+**[📂 View Repository](#)** • **[🌐 Live Demo](#)** • **[📊 Sample Data](#)**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
