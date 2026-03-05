@@ -19,19 +19,41 @@
 
 ## 🚀 About Me
 
-```yaml
-Name: Chandan
-Role: Full Stack Developer
-Focus: Scalable Systems + Automation
-Learning:
-  - Advanced Java Spring Boot
-  - Machine Learning with Python
-Working On:
-  - Discord Game Helper Bots
-  - Data Analysis Projects
-Fun Fact: I love analyzing data patterns 📊
-```
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=90&section=header&text=Developer%20Profile&fontSize=30&fontColor=ffffff"/>
+</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
+</p>
+
+<img align="right" height="230" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```bash
+> booting developer_profile...
+
+👤 Name: Chandan
+💻 Role: Full Stack Developer
+⚡ Focus: Scalable Systems & Automation
+
+📚 Currently Learning
+   ├─ Advanced Java Spring Boot
+   └─ Machine Learning with Python
+
+🚀 Currently Working On
+   ├─ Discord Game Helper Bots
+   └─ Data Analysis Projects
+
+🧠 Interests
+   ├─ System Architecture
+   ├─ Automation Engineering
+   └─ Data Pattern Analysis
+
+🎯 Fun Fact
+   "I love turning complex data into useful insights 📊"
+
+> status: building_the_future 🚀
+```
 ## 🛠 Tech Stack
 
 ### 💻 Languages
