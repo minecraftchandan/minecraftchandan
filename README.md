@@ -6,37 +6,43 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Discord Game Helper Bots** and **Automation Systems**
-- 🌱 Learning **AI/ML Integration** and **Microservices Architecture**
-- 👯 Looking to collaborate on **Open Source Projects** and **Discord Bots**
-- 💬 Ask me about **Node.js**, **Discord.js**, **MongoDB**, **Game Automation**
-- ⚡ Fun fact: I love optimizing code and building scalable systems
+- 🔭 Currently working on **Discord Game Helper Bots** and **Data Analysis Projects**
+- 🌱 Learning **Advanced Java Spring Boot** and **Machine Learning with Python**
+- 👯 Looking to collaborate on **Open Source Projects** and **Full-Stack Applications**
+- 💬 Ask me about **Node.js**, **Discord.js**, **Spring Boot**, **MongoDB**, **Data Analysis**
+- ⚡ Fun fact: I love building scalable systems and analyzing data patterns
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Databases & Tools
+### Databases & Analytics
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
+
+### Tools & Development
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Cloud & Deployment
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github-pages&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -64,21 +70,22 @@
 
 **Tech:** `Node.js` `Discord.js` `MongoDB` `Redis` `Express`
 
-### 🤖 [AI-Powered Trading Bot](https://github.com/YourUsername/trading-bot)
-**Intelligent trading system with machine learning**
-- 📈 **Predictive algorithms** for market analysis
-- 🔄 **Automated trading** with risk management
-- 📱 **Real-time notifications** and alerts
+### 🤖 [Spring Boot REST API](https://github.com/YourUsername/spring-boot-api)
+**Enterprise-grade REST API with microservices architecture**
+- 🏗️ **Clean architecture** with Spring Boot
+- 🔐 **JWT authentication** and authorization
+- 📊 **Data analytics** endpoints
+- 🐳 **Dockerized deployment** ready
 
-**Tech:** `Python` `TensorFlow` `FastAPI` `PostgreSQL`
+**Tech:** `Java` `Spring Boot` `MongoDB` `Redis` `Docker`
 
-### 🌐 [Full-Stack Web App](https://github.com/YourUsername/web-app)
-**Modern web application with microservices architecture**
-- ⚛️ **React frontend** with TypeScript
-- 🚀 **Node.js backend** with GraphQL
-- 🐳 **Dockerized deployment** on AWS
+### 📊 [Data Analysis Dashboard](https://github.com/YourUsername/data-dashboard)
+**Interactive data visualization and analytics platform**
+- 📈 **Real-time charts** and insights
+- 🔍 **Advanced filtering** and search
+- 📱 **Responsive design** with modern UI
 
-**Tech:** `React` `TypeScript` `GraphQL` `Docker` `AWS`
+**Tech:** `Python` `JavaScript` `HTML/CSS` `Firebase`
 
 ## 📈 Activity Graph
 
