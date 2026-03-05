@@ -122,7 +122,7 @@ specialties:
 • Enterprise Error Handling  
 • Multi-server Support  
 
-**[📂 View Repository](https://github.com/minecraftchandan/rushia-bugs)**
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minecraftchandan/rushia-bugs)
 
 </td>
 <td width="50%" align="center">
@@ -140,7 +140,7 @@ specialties:
 • Analytics Endpoints  
 • Comprehensive Documentation  
 
-**[📂 View Repository](https://github.com/minecraftchandan/spring-boot-api)**
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minecraftchandan/spring-boot-api)
 
 </td>
 </tr>
