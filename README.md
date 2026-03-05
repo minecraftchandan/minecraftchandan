@@ -20,47 +20,59 @@
 ## 🚀 About Me
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=160&section=header&text=Developer%20Terminal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=170&section=header&text=Developer%20Terminal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Loading+Systems...;Initializing+Chandan.exe;Full+Stack+Developer+Ready"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Booting+Developer+Profile...;Loading+Systems...;Initializing+Chandan.exe;Full+Stack+Developer+Ready"/>
 </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
 </p>
 
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
+```bash
+╔══════════════════════════════════════════════╗
+║        SYSTEM TERMINAL : CHANDAN.EXE         ║
+╚══════════════════════════════════════════════╝
+
+$ whoami
+> Chandan
+
+$ role
+> Full Stack Developer
+
+$ focus
+> Scalable Systems & Automation
+
+$ learning --current
+> Advanced Java Spring Boot
+> Machine Learning with Python
+
+$ projects --active
+> Discord Game Helper Bots
+> Data Analysis Platforms
+
+$ interests
+> System Architecture
+> Automation Engineering
+> Data Pattern Analysis
+
+$ fun_fact
+> "Turning complex data into powerful insights 📊"
+
+$ status
+> SYSTEM READY 🚀
 ```
-┌──(developer@cyberpunk-terminal)─[~/profile]
-└─$ ./boot_chandan.sh
 
-[✓] Loading developer profile...
+<p align="center">
 
-👤 USER        :: Chandan
-💻 ROLE        :: Full Stack Developer
-⚡ FOCUS       :: Scalable Systems & Automation
+⚡ **Build Systems** • 🤖 **Automate Everything** • 📊 **Analyze Data**
 
-[📚] LEARNING
- ├─ Advanced Java Spring Boot
- └─ Machine Learning with Python
+</p>
 
-[🚀] ACTIVE PROJECTS
- ├─ Discord Game Helper Bots
- └─ Data Analysis Platforms
-
-[🧠] INTERESTS
- ├─ System Architecture
- ├─ Automation Engineering
- └─ Data Pattern Analysis
-
-[🎯] FUN FACT
- > Turning complex data into powerful insights 📊
-
-[STATUS] System ready 🚀
-```
 
 ## 🛠 Tech Stack
 
