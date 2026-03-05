@@ -116,11 +116,11 @@ specialties:
 
 **Advanced automation system for Discord gaming communities**
 
-✅ 25+ Automated Systems  
-✅ Real-time Analytics Dashboard  
-✅ Smart Wishlist Management  
-✅ Enterprise Error Handling  
-✅ Multi-server Support  
+• 25+ Automated Systems  
+• Real-time Analytics Dashboard  
+• Smart Wishlist Management  
+• Enterprise Error Handling  
+• Multi-server Support  
 
 **[📂 View Repository](https://github.com/minecraftchandan/rushia-bugs)**
 
@@ -134,11 +134,11 @@ specialties:
 
 **Enterprise-grade REST API with microservices architecture**
 
-✅ JWT Authentication & Authorization  
-✅ Clean Architecture Pattern  
-✅ Docker Containerization  
-✅ Analytics Endpoints  
-✅ Comprehensive Documentation  
+• JWT Authentication & Authorization  
+• Clean Architecture Pattern  
+• Docker Containerization  
+• Analytics Endpoints  
+• Comprehensive Documentation  
 
 **[📂 View Repository](https://github.com/minecraftchandan/spring-boot-api)**
 
@@ -154,11 +154,11 @@ specialties:
 
 **Interactive data visualization and analytics platform**
 
-✅ Interactive Charts & Graphs  
-✅ Real-time Data Processing  
-✅ Advanced Filtering Options  
-✅ Export Capabilities  
-✅ Responsive Mobile Design  
+• Interactive Charts & Graphs  
+• Real-time Data Processing  
+• Advanced Filtering Options  
+• Export Capabilities  
+• Responsive Mobile Design  
 
 **[📂 View Repository](#)**
 
@@ -172,11 +172,11 @@ specialties:
 
 **Modern responsive portfolio showcasing my work**
 
-✅ Responsive Design  
-✅ Modern UI/UX  
-✅ Fast Loading Performance  
-✅ SEO Optimized  
-✅ Contact Form Integration  
+• Responsive Design  
+• Modern UI/UX  
+• Fast Loading Performance  
+• SEO Optimized  
+• Contact Form Integration  
 
 **[📂 View Repository](#)**
 
