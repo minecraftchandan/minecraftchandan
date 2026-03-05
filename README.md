@@ -105,163 +105,80 @@ specialties:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🎮 **PROJECT SHOWCASE**
-
-</div>
-
----
-
 <table>
 <tr>
-<td width="100%">
+<td width="50%" align="center">
 
-<div align="center">
-
-## 🤖 **Discord Game Helper Bot**
-
+### 🤖 **Discord Game Helper Bot**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-</div>
+**Advanced automation system for Discord gaming communities**
 
-**🎯 Advanced automation system for Discord gaming communities**
+✅ 25+ Automated Systems  
+✅ Real-time Analytics Dashboard  
+✅ Smart Wishlist Management  
+✅ Enterprise Error Handling  
+✅ Multi-server Support  
 
-```yaml
-Project Overview:
-  Type: Discord Bot Application
-  Scale: 25+ Automated Systems
-  Users: Gaming Communities
-  Status: Production Ready
-
-Core Features:
-  ✅ Real-time Game Notifications
-  ✅ Smart Wishlist Management
-  ✅ Analytics Dashboard
-  ✅ Role-based Permissions
-  ✅ Multi-server Support
-
-Technical Highlights:
-  🔧 Modular Architecture
-  ⚡ High-performance MongoDB
-  🛡️ Enterprise Error Handling
-  📊 Real-time Data Processing
-  🚀 Railway Cloud Deployment
-```
-
-<div align="center">
-
-**[📂 View Repository](https://github.com/minecraftchandan/rushia-bugs)** • **[🌐 Live Demo](#)** • **[📖 Documentation](#)**
-
-</div>
+**[📂 View Repository](https://github.com/minecraftchandan/rushia-bugs)**
 
 </td>
-</tr>
-</table>
+<td width="50%" align="center">
 
----
-
-<table>
-<tr>
-<td width="100%">
-
-<div align="center">
-
-## ☕ **Spring Boot Microservices API**
-
+### ☕ **Spring Boot Microservices API**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-</div>
+**Enterprise-grade REST API with microservices architecture**
 
-**🏗️ Enterprise-grade REST API with microservices architecture**
+✅ JWT Authentication & Authorization  
+✅ Clean Architecture Pattern  
+✅ Docker Containerization  
+✅ Analytics Endpoints  
+✅ Comprehensive Documentation  
 
-```yaml
-Project Overview:
-  Type: Backend API Service
-  Architecture: Microservices
-  Security: JWT Authentication
-  Status: Development
-
-Core Features:
-  ✅ RESTful API Design
-  ✅ JWT Authentication
-  ✅ Role-based Authorization
-  ✅ Data Analytics Endpoints
-  ✅ Comprehensive Documentation
-
-Technical Highlights:
-  🏛️ Clean Architecture Pattern
-  🐳 Docker Containerization
-  📊 Analytics Integration
-  🔒 Security Best Practices
-  ☁️ Cloud-ready Deployment
-```
-
-<div align="center">
-
-**[📂 View Repository](https://github.com/minecraftchandan/spring-boot-api)** • **[📋 API Docs](#)** • **[🐳 Docker Hub](#)**
-
-</div>
+**[📂 View Repository](https://github.com/minecraftchandan/spring-boot-api)**
 
 </td>
 </tr>
-</table>
-
----
-
-<table>
 <tr>
-<td width="100%">
+<td width="50%" align="center">
 
-<div align="center">
-
-## 📊 **Data Analysis Dashboard**
-
+### 📊 **Data Analysis Dashboard**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Interactive data visualization and analytics platform**
+
+✅ Interactive Charts & Graphs  
+✅ Real-time Data Processing  
+✅ Advanced Filtering Options  
+✅ Export Capabilities  
+✅ Responsive Mobile Design  
+
+**[📂 View Repository](#)**
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 **Personal Portfolio Website**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+**Modern responsive portfolio showcasing my work**
 
-**📈 Interactive data visualization and analytics platform**
+✅ Responsive Design  
+✅ Modern UI/UX  
+✅ Fast Loading Performance  
+✅ SEO Optimized  
+✅ Contact Form Integration  
 
-```yaml
-Project Overview:
-  Type: Web Application
-  Focus: Data Visualization
-  Target: Business Analytics
-  Status: Concept Phase
-
-Core Features:
-  ✅ Interactive Charts
-  ✅ Real-time Data Processing
-  ✅ Advanced Filtering
-  ✅ Export Capabilities
-  ✅ Responsive Design
-
-Technical Highlights:
-  📊 Dynamic Visualizations
-  🔥 Firebase Integration
-  📱 Mobile-first Design
-  ⚡ Real-time Updates
-  🎨 Modern UI/UX
-```
-
-<div align="center">
-
-**[📂 View Repository](#)** • **[🌐 Live Demo](#)** • **[📊 Sample Data](#)**
-
-</div>
+**[📂 View Repository](#)**
 
 </td>
 </tr>
