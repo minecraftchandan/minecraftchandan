@@ -160,7 +160,8 @@ specialties:
 • Export Capabilities  
 • Responsive Mobile Design  
 
-**[📂 View Repository](#)**
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minecraftchandan/spring-boot-api)
+
 
 </td>
 <td width="50%" align="center">
@@ -178,7 +179,8 @@ specialties:
 • SEO Optimized  
 • Contact Form Integration  
 
-**[📂 View Repository](#)**
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minecraftchandan/spring-boot-api)
+
 
 </td>
 </tr>
