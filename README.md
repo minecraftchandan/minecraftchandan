@@ -20,40 +20,48 @@
 ## 🚀 About Me
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=90&section=header&text=Developer%20Profile&fontSize=30&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=160&section=header&text=Developer%20Terminal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Loading+Systems...;Initializing+Chandan.exe;Full+Stack+Developer+Ready"/>
 </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
 </p>
 
-<img align="right" height="230" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```bash
-> booting developer_profile...
-
-👤 Name: Chandan
-💻 Role: Full Stack Developer
-⚡ Focus: Scalable Systems & Automation
-
-📚 Currently Learning
-   ├─ Advanced Java Spring Boot
-   └─ Machine Learning with Python
-
-🚀 Currently Working On
-   ├─ Discord Game Helper Bots
-   └─ Data Analysis Projects
-
-🧠 Interests
-   ├─ System Architecture
-   ├─ Automation Engineering
-   └─ Data Pattern Analysis
-
-🎯 Fun Fact
-   "I love turning complex data into useful insights 📊"
-
-> status: building_the_future 🚀
 ```
+┌──(developer@cyberpunk-terminal)─[~/profile]
+└─$ ./boot_chandan.sh
+
+[✓] Loading developer profile...
+
+👤 USER        :: Chandan
+💻 ROLE        :: Full Stack Developer
+⚡ FOCUS       :: Scalable Systems & Automation
+
+[📚] LEARNING
+ ├─ Advanced Java Spring Boot
+ └─ Machine Learning with Python
+
+[🚀] ACTIVE PROJECTS
+ ├─ Discord Game Helper Bots
+ └─ Data Analysis Platforms
+
+[🧠] INTERESTS
+ ├─ System Architecture
+ ├─ Automation Engineering
+ └─ Data Pattern Analysis
+
+[🎯] FUN FACT
+ > Turning complex data into powerful insights 📊
+
+[STATUS] System ready 🚀
+```
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
