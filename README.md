@@ -97,11 +97,7 @@ specialties:
 
 **285 contributions in the last year** 🔥
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minecraftchandan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -127,7 +123,7 @@ specialties:
 
 **Tech Stack:** Node.js, Discord.js, MongoDB, Redis, Express
 
-[View Repository →](https://github.com/YourUsername/rushia-bugs)
+[View Repository →](https://github.com/minecraftchandan/rushia-bugs)
 
 </td>
 <td width="50%">
@@ -144,7 +140,7 @@ specialties:
 
 **Tech Stack:** Java, Spring Boot, MongoDB, Redis, Docker
 
-[View Repository →](https://github.com/YourUsername/spring-boot-api)
+[View Repository →](https://github.com/minecraftchandan/spring-boot-api)
 
 </td>
 </tr>
@@ -169,7 +165,7 @@ specialties:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=minecraftchandan&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 **⭐ Star my repositories if you find them useful!**
 
