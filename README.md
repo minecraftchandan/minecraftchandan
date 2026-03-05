@@ -95,22 +95,9 @@ specialties:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+**285 contributions in the last year** 🔥
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -158,18 +145,6 @@ specialties:
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📈 Activity Overview
-
-<div align="center">
-
-**285 contributions in the last year** 🔥
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%" />
 
 </div>
 
