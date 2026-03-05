@@ -40,14 +40,17 @@ Fun Fact: I love analyzing data patterns 📊
 </p>
 
 ### ⚡ Frameworks & Tools
+
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,redis,firebase,docker"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
 </p>
 
-### 🤖 Discord Development
-<p align="center">
-<img src="https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
 
 ### ☁️ Cloud & Deployment
 <p align="center">
